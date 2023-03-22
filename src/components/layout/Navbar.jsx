@@ -75,7 +75,7 @@ export default function Navbar() {
                   textDecoration: "none",
                 }}
               >
-                Logo
+                Travel
               </Link>
             </Box>
 

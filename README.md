@@ -1,37 +1,9 @@
-# Blog App with React JS
-
-![blog landing](./public/main-page.png)
-A blog application with React and Firebase as a backend
+# Blog App
 
 ## Project Description
 
-This is a React-based blog app that lets users create, like, and delete posts. The app has a responsive design and is built using modern web development techniques. It's a great project to learn how to build a full-stack web application with React and other cutting-edge technologies.
+This is a sophisticated blog application built on React, empowering users to craft, appreciate, and remove posts. The application boasts a responsive design, leveraging contemporary web development methodologies to deliver an exceptional user experience. It serves as an outstanding project to master building full-stack web applications with React and other advanced technologies.
 
-## Services
-
-### Login
-
-![login](./public/login.png)
-
-You can access posts without logging in, but to create your own posts, you need to login or create an account. If you would like to try out the feature, you can use the following user credentials:
-
-testuser@mail.com
-123456
-
-### Register
-
-![register](./public/register.png)
-Create a new user by entered email, username, password.
-
-### Home
-
-![after login screen](./public/after-login.png)
-Upon logging in or registering, users will be directed to the homepage where they can browse all posts created by other users and make their own post, along with their titles and descriptions and image.
-
-### New post
-
-![newpost](./public/create-new-post.png)
-By clicking on the 'Add Post' button, users can access a modal that allows them to create a new post with a title, description, image URL, and content.
 
 ### Others
 
@@ -60,5 +32,3 @@ Once you have created the keys.js file and added your Firebase API key to it, yo
 3. npm run build: Builds the app for production to the build folder.
 
 # Live
-
-https://live-react-blog-app.netlify.app/

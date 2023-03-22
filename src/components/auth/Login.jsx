@@ -50,7 +50,7 @@ export default function Login() {
     >
       <Stack spacing={8} mx={"auto"} maxW={"lg"} minW={500} py={12} px={6}>
         <Stack align={"center"}>
-          <Heading fontSize={"4xl"}>Let's unlock</Heading>
+          <Heading fontSize={"4xl"}>Welcome back</Heading>
           <Text fontSize={"lg"} color={"gray.600"}>
             Time to get your login on ✌️
           </Text>
